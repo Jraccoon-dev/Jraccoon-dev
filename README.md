@@ -1,5 +1,4 @@
 # HELLO ! 👋
----
 I am student of software engenniering, actually I work remote freelance 🧑. I love lofi music ☕ and raccoons 🦝.
 
 ## SKILLS 📚
