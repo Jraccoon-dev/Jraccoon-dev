@@ -13,4 +13,4 @@ I am student of software engenniering, actually I work remote freelance 🧑. I 
 
 ## LANGUAGES 🗣
 1. Spanish native
-2. English fluent
+2. English basic
